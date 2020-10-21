@@ -1,5 +1,7 @@
-# En este repositorio colocaré la información resumen del curso:
-### Introducción al pensamiento computacional con Python.
+# Introducción al pensamiento computacional con Python.
+## En este repositorio colocaré información y apuntes.
+### El proyecto  incluirá una pagian WEB en GitHub Pages.
+ 
 
 
 
